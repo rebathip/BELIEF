@@ -1,2 +1,2 @@
-# belief
-BELIEF - Bayesian Sign Entropy Regularization for LIME Framework
+#BELIEF - Bayesian Sign Entropy Regularization for LIME Framework
+

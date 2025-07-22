@@ -1,4 +1,4 @@
-#BELIEF - Bayesian Sign Entropy Regularization for LIME Framework
+#BELIEF - Bayesian Sign Entropy Regularization for LIME Framework (UAI 2025)
 
 For Sign Entropy regularization evaluation on Tabular data
 1) Run the script regularization_run.py

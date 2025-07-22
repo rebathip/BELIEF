@@ -1,5 +1,7 @@
 #BELIEF - Bayesian Sign Entropy Regularization for LIME Framework (UAI 2025)
 
+For SLICE please visit our previous work here: https://github.com/rebathip/SLICE-Stabilized-LIME-for-Consistent-Explanations-for-Image-Classification.git 
+
 For directory setup:
 1) `results/` <br>
 &nbsp;&nbsp;&nbsp;&nbsp;└── `oxpets/` *(dataset name)* <br>

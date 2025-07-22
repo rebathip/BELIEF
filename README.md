@@ -1,5 +1,7 @@
 #BELIEF - Bayesian Sign Entropy Regularization for LIME Framework (UAI 2025)
 
+![BELIEF Explanations](belief_newfoundland_181.jpg)
+
 For SLICE please visit our previous work here: https://github.com/rebathip/SLICE-Stabilized-LIME-for-Consistent-Explanations-for-Image-Classification.git 
 
 For directory setup:

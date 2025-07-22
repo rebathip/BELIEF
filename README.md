@@ -1,15 +1,14 @@
 #BELIEF - Bayesian Sign Entropy Regularization for LIME Framework (UAI 2025)
 
 For directory setup:
-1) `results/`
-   └── `oxpets/` &nbsp;&nbsp;*(dataset name)*
-       └── `belief_resnet50/` &nbsp;&nbsp;*(method_model)*
-
-2) `fidelity_results/`
-   ├── `aopc_del/`
-   ├── `aopc_ins/`
-   ├── `del/`
-   └── `ins/`
+1) `results/` <br>
+&nbsp;&nbsp;&nbsp;&nbsp;└── `oxpets/` *(dataset name)* <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── `belief_resnet50/` *(method_model)* <br><br>
+2) `fidelity_results/` <br>
+&nbsp;&nbsp;&nbsp;&nbsp;├── `aopc_del/` <br>
+&nbsp;&nbsp;&nbsp;&nbsp;├── `aopc_ins/` <br>
+&nbsp;&nbsp;&nbsp;&nbsp;├── `del/` <br>
+&nbsp;&nbsp;&nbsp;&nbsp;└── `ins/`
 
 For Sign Entropy regularization evaluation on Tabular data
 1) Run the script regularization_run.py
